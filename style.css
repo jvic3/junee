@@ -1,0 +1,31 @@
+.myheading{
+    color: darkcyan;
+    font-size: 40px;
+    background-color: black;
+}
+#three{
+    color: darkcyan;
+}
+.two{
+    color: #570303;
+}
+.four{
+    color: #570303;
+}
+.first{
+    background-color: darkcyan;
+    padding-top: 30px;
+    padding-left: 700px;
+    padding-bottom: 30px;
+}
+.test{
+    display: flex;
+    background-color: rgba(169, 169, 169, 0.98);
+    padding: 20px;
+}
+.paragragh1{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
